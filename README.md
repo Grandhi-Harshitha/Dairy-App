@@ -55,5 +55,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-**Developer:** Gugulothu Bindu  
-📧 Email: [bindugugulothu32@gmail.com](bindugugulothu32@gmail.com)  
+**Developer:** Grandhi Harshitha  
+📧 Email: [harshithagrandhi139@gmail.com](harshithagrandhi139@gmail.com)  
